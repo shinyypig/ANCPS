@@ -1,6 +1,6 @@
 # README
 
-[liscence](https://img.shields.io/github/license/shinyypig/ancps)
+![license](https://img.shields.io/github/license/shinyypig/ancps)
 
 This file includes two test scripts, the code of the methods evaluated in the manuscript, and a sub-image of the HongKong dataset. It should be noted that all files were written in MATLAB R2020a.
 
