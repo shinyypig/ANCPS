@@ -1,8 +1,10 @@
-# README
+# A New Translation Matching Method Based on Autocorrelated Normalized Cross-Power Spectrum
 
 ![license](https://img.shields.io/github/license/shinyypig/ancps)
 
-This file includes two test scripts, the code of the methods evaluated in the manuscript, and a sub-image of the HongKong dataset. It should be noted that all files were written in MATLAB R2020a.
+This repository includes two test scripts, the code of the methods evaluated in the manuscript, and a sub-image of the HongKong dataset. It should be noted that all files were written in MATLAB R2020a.
+
+Fulltext of the paper can be found [here](./ANCPS.pdf).
 
 ## Test scripts
 
