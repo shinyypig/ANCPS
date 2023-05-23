@@ -28,7 +28,7 @@ Output
 
 - offset: a 2\*num matrix, which includes the estimation of each iteration
 
-## Bibtex
+## BibTex
 
 ```bib
 @article{zhu2021a,
